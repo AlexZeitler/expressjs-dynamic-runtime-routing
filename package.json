@@ -1,0 +1,29 @@
+{
+  "name": "expressjs-dynamic-runtime-routing",
+  "version": "1.0.0",
+  "description": "Example that shows how to add ExpressJS routes at runtime",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexZeitler/expressjs-dynamic-runtime-routing.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "routing",
+    "runtime",
+    "dynamic"
+  ],
+  "author": "Alexander Zeitler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexZeitler/expressjs-dynamic-runtime-routing/issues"
+  },
+  "homepage": "https://github.com/AlexZeitler/expressjs-dynamic-runtime-routing",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
